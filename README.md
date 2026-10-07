@@ -69,3 +69,7 @@ node install.js
 node install.js --uninstall           # 移除，但保留寵物資料
 node install.js --uninstall --purge   # 連寵物資料一起刪掉
 ```
+
+## 授權
+
+[MIT License](LICENSE)：可以自由使用、修改和分享。
